@@ -1,5 +1,5 @@
-# poemElasticDemo
-# 基于知识图谱的KBQA
+
+# 基于Elasticsearch的KBQA
 # 上手教程
 
 环境配置
